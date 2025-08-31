@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Victor Hipólito Silva Braga Reis
+- Matrícula: 902693
+- Proposta de projeto escolhida: 4. Coleções e Itens
+- Breve descrição sobre seu projeto: Minha ideia é fazer um site que cataloga jogos que eu completei e exibe informações como horas jogadas, conquistas completas e uma análise com minha avaliação desse jogo.
 
 ## Print do(s) wireframe(s) criado(s)
 
