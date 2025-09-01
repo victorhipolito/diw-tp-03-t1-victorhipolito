@@ -4,6 +4,8 @@
     top: 0px;
     left: 12%;
     right: 0px;
+    bottom: 92%;
+    z-index: 1;
     padding: 0px 10px;
     overflow: hidden;
     background-color: #2a475e;
@@ -36,9 +38,11 @@
 .barra-lateral {
     position: fixed;
     top: 0px;
+    margin: 0px;
     right: 88%;
     left: 0px;
     height: 100%;
+    z-index: 1;
     background-color: #2a475e;
     padding: 10px 10px;
     text-align: center;
@@ -82,4 +86,22 @@
 #favoritos a{
     color: #c7d5e0;
     font-size: 20px;
+}
+
+/*Parte Principal*/
+.parte-principal {
+    position: relative;
+    margin: 0px;
+    padding: 3% 2%;
+    top: 8%;
+    left: 11%;
+    max-width: 86%;
+    max-height: 100%;
+    overflow-x: hidden;
+    top: 8%;
+    background-color: #c7d5e0;
+}
+
+.parte-principal p {
+    text-align: justify;
 }
