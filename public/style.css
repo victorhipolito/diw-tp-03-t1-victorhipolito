@@ -14,7 +14,7 @@
 .topnav input {
     padding-right: 30%;
     margin: 10px 0px;
-    font-size: 20px;
+    font-size: 30px;
     
 }
 
@@ -26,7 +26,7 @@
     padding: 2px 7px;
     margin: 10px 10px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .topnav a:hover {
@@ -50,7 +50,7 @@
 
 #botoes-l a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
     background-color: #c7d5e0;
     text-align: center;
@@ -80,7 +80,7 @@
     top: 10%;
     padding: 0px 0px 100%;
     color: #c7d5e0;
-    font-size: x-large;
+    font-size: 25px;
     text-align: left;
 }
 #favoritos a{
@@ -104,4 +104,26 @@
 
 .parte-principal p {
     text-align: justify;
+}
+
+.parte-principal div{
+    display: grid;
+    grid-template-columns: repeat(2, auto [metade]);
+}
+
+.parte-principal div h2 {
+    padding: 1px;
+    background-color: #c7d5e0;
+    color: black;
+}
+
+.parte-principal section {
+    background-color: #3f4f75;
+    text-align: center;
+    margin: 1%;
+    padding: 2px 2%;
+}
+
+.parte-principal section img {
+    margin: 0px 1%;
 }
